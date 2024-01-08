@@ -1,0 +1,1 @@
+Hey there, I'm Akash, the Developer behind Cryptox – your go-to crypto price checker with 200+ top-notch cryptocurrencies. Powered by Tailwind CSS and React.js, I've also hooked it up with the Coingecko API to keep you in the crypto loop. Check it out and witness my web dev skills in action!
