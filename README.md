@@ -10,9 +10,9 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://blogger.googleusercontent.com/img/a/AVvXsEj9RKx_G-IYL6eYHBIYBWSRGX9vSg3Ql-LH16HglyX2Yi9kIaqbLgNWjf7qHClHfXYEdHQcv5CGKYsoPjCcgApqI6XRAqv2m2QGu_OL_unlHPZM_8YxUv-i-u_LYmDwtt_iedsDdLvcycWDqHmGCGKKW11k2qlELmeV2gV42kMw6coH9XwOfJ5Y8iNYeQ" alt="project-screenshot" width="400" height="400/">
+<img src="https://blogger.googleusercontent.com/img/a/AVvXsEj9RKx_G-IYL6eYHBIYBWSRGX9vSg3Ql-LH16HglyX2Yi9kIaqbLgNWjf7qHClHfXYEdHQcv5CGKYsoPjCcgApqI6XRAqv2m2QGu_OL_unlHPZM_8YxUv-i-u_LYmDwtt_iedsDdLvcycWDqHmGCGKKW11k2qlELmeV2gV42kMw6coH9XwOfJ5Y8iNYeQ" alt="project-screenshot" /">
 
-<img src="https://blogger.googleusercontent.com/img/a/AVvXsEgC6tJzMeXYmg9u7-4y-U-tGmV8JqMxO2JHwj_fxT4jGIj02jlIfDENn9QE-dpj-t3XIFk8FQgO1ALSReWAkScTEmI3CCJXabLwJ-W28t4xPqPAypPrfEUKfl5ZpcvN0SUNEVFT6Ba9aAZLJ_Rq35I7nPLBBwEyDKhiBuiM7iOqdVxLF8Z_IDdQMjeyEA" alt="project-screenshot" width="400" height="400/">
+<img src="https://blogger.googleusercontent.com/img/a/AVvXsEgC6tJzMeXYmg9u7-4y-U-tGmV8JqMxO2JHwj_fxT4jGIj02jlIfDENn9QE-dpj-t3XIFk8FQgO1ALSReWAkScTEmI3CCJXabLwJ-W28t4xPqPAypPrfEUKfl5ZpcvN0SUNEVFT6Ba9aAZLJ_Rq35I7nPLBBwEyDKhiBuiM7iOqdVxLF8Z_IDdQMjeyEA" alt="project-screenshot" /">
 
 <h2>🛠️ Installation Steps:</h2>
 
