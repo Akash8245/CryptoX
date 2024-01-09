@@ -1,4 +1,6 @@
 import React from "react";
+import insta from "../assets/insta.svg";
+import github from "../assets/github.svg";
 
 export default function Footer() {
   return (
@@ -15,14 +17,10 @@ export default function Footer() {
       </p>
       <div className="flex justify-center items-center ">
         <a href="https://github.com/Akash8245" target="_blank">
-          <img
-            src="../github.svg"
-            alt="github"
-            className="w-[40px] m-auto p-2"
-          />
+          <img src={github} alt="github" className="w-[40px] m-auto p-2" />
         </a>
         <a href="https://www.instagram.com/akash__024/" target="_blank">
-          <img src="../insta.svg" alt="insta" className="w-[40px] m-auto p-2" />
+          <img src={insta} alt="insta" className="w-[40px] m-auto p-2" />
         </a>
       </div>
     </div>

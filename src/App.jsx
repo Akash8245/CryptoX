@@ -1,7 +1,6 @@
 import React from "react";
 import NavBar from "./components/NavBar";
 import Home from "./components/Home";
-import WatchList from "./components/WatchList";
 import About from "./components/About";
 import Footer from "./components/Footer";
 import { Route, Routes } from "react-router-dom";
@@ -20,9 +19,3 @@ function App() {
 }
 
 export default App;
-{
-  /* <NavBar />
-      <Home />
-      <About />
-      <Footer /> */
-}

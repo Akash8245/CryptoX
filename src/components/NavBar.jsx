@@ -1,5 +1,8 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
+import logo from "../assets/logo.svg";
+import cross from "../assets/cross.svg";
+import menu from "../assets/menu.svg";
 
 export default function NavBar() {
   const [nav, setNav] = useState(false);
@@ -15,8 +18,11 @@ export default function NavBar() {
   return (
     <nav className="font-[Ubuntu] bg-[#14171c] flex items-center justify-between h-[60px] p-5 cursor-pointer  md:sticky md:top-0">
       <div className=" flex items-center relative  z-20">
-        <img src="../logo.svg" alt="logo" className="w-[40px]  " />
-        <p className="font-bold text-2xl pl-1 text-[whitesmoke]">Crypto</p>
+        <img src={logo} alt="logo" className="w-[40px]  " />
+        <Link to="/">
+          {" "}
+          <p className="font-bold text-2xl pl-1 text-[whitesmoke]">Crypto</p>
+        </Link>
         <span className="text-[#307F98] text-3xl font-bold">X</span>
       </div>
 
@@ -43,7 +49,7 @@ export default function NavBar() {
 
       <div>
         <img
-          src={nav ? "../cross.svg" : "../menu.svg"}
+          src={nav ? cross : menu}
           alt=""
           className={`w-[35px] md:hidden duratio`}
           onClick={toggleNav}
